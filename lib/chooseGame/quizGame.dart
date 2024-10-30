@@ -206,7 +206,7 @@ class _MathQuizGameState extends State<MathQuizGame> {
                 onExit: () {
                   Navigator.of(context).pushAndRemoveUntil(
                     MaterialPageRoute(
-                      builder: (context) => const MainScreenGame(),
+                      builder: (context) => const MainPageGame(),
                     ),
                     (Route<dynamic> route) => false,
                   );

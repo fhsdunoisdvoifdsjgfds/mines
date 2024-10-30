@@ -227,7 +227,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     const SizedBox(height: 10),
                     GestureDetector(
                       onTap: () => launchURL(
-                          'https://medallmate.click/sweetmixagram-policy'),
+                          'https://medallwin.online/bombgames-policy'),
                       child: Container(
                         height: 70,
                         width: 200,
@@ -255,7 +255,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     const SizedBox(height: 10),
                     GestureDetector(
                       onTap: () => launchURL(
-                          'https://medallmate.click/sweetmixagram-terms'),
+                          'https://medallwin.online/bombgames-policy'),
                       child: Container(
                         height: 70,
                         width: 200,

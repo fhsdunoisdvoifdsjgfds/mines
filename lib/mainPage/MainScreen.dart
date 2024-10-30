@@ -3,14 +3,14 @@ import 'package:mines/chooseGame/ChooseGameModeScreen.dart';
 import 'package:mines/chooseGame/InfoPageScreen.dart';
 import 'package:mines/chooseGame/widget/settings.dart';
 
-class MainScreenGame extends StatefulWidget {
-  const MainScreenGame({super.key});
+class MainPageGame extends StatefulWidget {
+  const MainPageGame({super.key});
 
   @override
-  State<MainScreenGame> createState() => _MainScreenGameState();
+  State<MainPageGame> createState() => _MainPageGameState();
 }
 
-class _MainScreenGameState extends State<MainScreenGame> {
+class _MainPageGameState extends State<MainPageGame> {
   @override
   void initState() {
     super.initState();
